@@ -4,15 +4,6 @@
 
 This project leverages Functional Magnetic Resonance Imaging (fMRI) data and machine learning techniques for brain diagnosis, particularly focusing on Alzheimer's disease (AD). We developed and evaluated multiple classifier models to predict dementia stages based on neuroimaging data. Additionally, an image recognition model was built using deep learning techniques to classify MRI images into different stages of dementia.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Datasets](#datasets)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [Future Scope](#future-scope)
-- [Acknowledgements](#acknowledgements)
-
 ## Introduction
 
 Alzheimer's disease (AD) is a neurodegenerative disorder that significantly impacts memory and cognitive abilities. It is the leading cause of dementia, especially in older adults. Our project utilizes machine learning techniques on fMRI data to detect Alzheimer's disease and assess its severity. We also employ image recognition methods to classify MRI scans and assist in early-stage diagnosis of dementia.
